@@ -1,4 +1,8 @@
 # 2-Look OLL Guide
+The aim of OLL(Orientation of the Last Layer) is to get all yellow sticker to face up if you are doing white cross.
+
+Normally there are 57 algorithms to do this in one step. Most people, especially beginners, cannot be bothered or cannot learn all of them. So they retreat to 2 look, which means that you do it in two steps. first you make a cross on top, then you do one of the seven remaining algs. Pretty straight forward.
+
 ## Case 1: No corner orientated
 ### headlights both sides
 * https://youtu.be/Cg4bR2U6zVg?t=4m22s
