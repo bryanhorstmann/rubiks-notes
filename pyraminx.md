@@ -36,3 +36,10 @@ Short hand notes based on [Kewbz UK](https://www.kewbz.co.uk/blogs/solutions/how
 | :---: | :---: |
 | Clockwise | R U R' U R U R' |
 | Anti Clockwise | L' U' L U' L' U' L |
+
+# Alternate Patterns
+## Inner Colours
+Alternating inner colours
+```
+U R L' U' R L B U' L' B u l r b
+```
